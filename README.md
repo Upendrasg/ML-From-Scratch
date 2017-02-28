@@ -1,6 +1,8 @@
 # Machine Learning From Scratch
 
-Python implementations of some of the foundational Machine Learning models and algorithms from scratch.
+Go implementations of some of the foundational Machine Learning models and algorithms from scratch.
+
+Port of [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 While some of the matrix operations that are implemented by hand (such as calculation of covariance matrix) are 
 available in numpy I have decided to add these as well to make sure that I understand how the linear algebra is applied.
